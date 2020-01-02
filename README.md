@@ -1,6 +1,6 @@
 # Zebra-puzzle
 
-1. Zebra-puzzle
+1. Zebra puzzle
   
         (1) There are five houses.
         (2) The Englishman lives in the red house.
