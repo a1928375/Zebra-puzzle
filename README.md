@@ -43,3 +43,5 @@ For example, if they happen to arrive in alphabetical order, Hamming on Monday, 
 ['Hamming', 'Knuth', 'Minsky', 'Simon', 'Wilkes']
 
 (You can assume that the days mentioned are all in the same week.)
+
+3. Floor puzzle
